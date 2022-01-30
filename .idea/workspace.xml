@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add to git">
+      <change beforePath="$PROJECT_DIR$/../web/lesson1/home/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../web" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="23vQWmedxhFsZK31rE7WNRo6gzt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../web/Project/images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\Project\images" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\Project" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson2\home" />
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson1\home" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="" />
+      <created>1642612121637</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1642612121637</updated>
+      <workItem from="1642612122812" duration="1940000" />
+      <workItem from="1642694718915" duration="5133000" />
+      <workItem from="1642869389323" duration="597000" />
+      <workItem from="1642924274203" duration="11039000" />
+      <workItem from="1642998099093" duration="7493000" />
+      <workItem from="1643018389660" duration="7514000" />
+      <workItem from="1643110015702" duration="3589000" />
+      <workItem from="1643186550025" duration="23257000" />
+      <workItem from="1643261786816" duration="739000" />
+      <workItem from="1643272047839" duration="10726000" />
+      <workItem from="1643353974306" duration="17359000" />
+      <workItem from="1643398565083" duration="1403000" />
+      <workItem from="1643440931906" duration="10991000" />
+      <workItem from="1643461234583" duration="14706000" />
+      <workItem from="1643483128801" duration="3189000" />
+      <workItem from="1643516311830" duration="19910000" />
+    </task>
+    <task id="LOCAL-00001" summary="add to git">
+      <created>1642698217911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1642698217912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add to git" />
+    <option name="LAST_COMMIT_MESSAGE" value="add to git" />
+  </component>
+</project>
