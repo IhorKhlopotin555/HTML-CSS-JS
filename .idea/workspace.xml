@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add to git">
-      <change beforePath="$PROJECT_DIR$/../web/lesson1/home/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/index.html" beforeDir="false" />
+    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="project and homework">
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 1/Classwork/classwork_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 1/Classwork/lesson_1_cw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 1/Homework/index.lesson_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 1/Homework/lesson_1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\HTML " />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\Project\images" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\Project" />
     </key>
@@ -83,7 +87,11 @@
       <workItem from="1643440931906" duration="10991000" />
       <workItem from="1643461234583" duration="14706000" />
       <workItem from="1643483128801" duration="3189000" />
-      <workItem from="1643516311830" duration="19910000" />
+      <workItem from="1643516311830" duration="20979000" />
+      <workItem from="1643560132076" duration="119000" />
+      <workItem from="1643617425853" duration="851000" />
+      <workItem from="1643709565840" duration="7570000" />
+      <workItem from="1643731690887" duration="5011000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1642698217911</created>
@@ -92,7 +100,21 @@
       <option name="project" value="LOCAL" />
       <updated>1642698217912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project and homework">
+      <created>1643556603299</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643556603299</updated>
+    </task>
+    <task id="LOCAL-00003" summary="project and homework">
+      <created>1643556633035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643556633035</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +133,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add to git" />
-    <option name="LAST_COMMIT_MESSAGE" value="add to git" />
+    <MESSAGE value="project and homework" />
+    <option name="LAST_COMMIT_MESSAGE" value="project and homework" />
   </component>
 </project>
