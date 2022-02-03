@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="project and homework">
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/classwork/lesson_2_cw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/classwork/lesson_2_cw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/homework/lesson_2_hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/homework/lesson_2_hw.js" afterDir="false" />
+    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add homework and classwork for js lesson 2">
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/additional/additional_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/additional/additional_lesson_2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -94,7 +92,8 @@
       <workItem from="1643731690887" duration="5322000" />
       <workItem from="1643887493792" duration="6914000" />
       <workItem from="1643903959813" duration="2494000" />
-      <workItem from="1643906507666" duration="1118000" />
+      <workItem from="1643906507666" duration="3412000" />
+      <workItem from="1643918604062" duration="2674000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1642698217911</created>
@@ -124,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643736976688</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add homework and classwork for js lesson 2">
+      <created>1643907676327</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643907676327</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,6 +150,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add to git" />
     <MESSAGE value="project and homework" />
-    <option name="LAST_COMMIT_MESSAGE" value="project and homework" />
+    <MESSAGE value="add homework and classwork for js lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add homework and classwork for js lesson 2" />
   </component>
 </project>
