@@ -1,10 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add homework and classwork for js lesson 2">
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/additional/additional_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 2/additional/additional_lesson_2.html" afterDir="false" />
+    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add additional tasks lesson 2">
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/classwork/lesson_3_cw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/classwork/lesson_3_cw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/homework/lesson_3_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/homework/lesson_3_hw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 4/addition/lesson_4_addition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 4/addition/lesson_4_addition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 4/classwork/lesson_4_cw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 4/classwork/lesson_4_cw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 4/homework/lesson_4_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 4/homework/lesson_4_hw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/Galka.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/Galka.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/Rectangle.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/Rectangle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/Sprig_1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/Sprig_1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/Sprig_logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/Sprig_logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/arrow.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/arrow.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/bicycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/bicycle.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/blu_circuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/blu_circuit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/bottom_galka.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/bottom_galka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/content_image1.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/content_image1.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/daniel.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/daniel.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/instagram.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/instagram.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/integrations.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/integrations.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/lines.svg" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/lines.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/logo_2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/logo_2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/logo_bottom.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/logo_bottom.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/logos.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/logos.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/orange_circuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/orange_circuit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/pr_1_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/pr_1_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/pr_2_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/pr_2_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/pr_3_img.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/pr_3_img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/purple_circuit.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/purple_circuit.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/purplr_sprig.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/purplr_sprig.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/quotes.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/quotes.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/target.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/target.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/top_galka.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/top_galka.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/images/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/images/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/index.project.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/index.project.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/Project/project.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/Project/project.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson1/home/Frey.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson1/home/Frey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/index.pharagrafh_with_border.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson2/home/index.pharagrafh_with_border.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/index.squares.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson2/home/index.squares.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/index.your_name.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson2/home/index.your_name.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/pharagrafh_with_border.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson2/home/pharagrafh_with_border.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/squares.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson2/home/squares.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson2/home/your_name.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson2/home/your_name.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson3/class/3.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson3/class/3.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson3/class/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson3/class/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson3/home/div_id.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson3/home/div_id.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson3/home/index.div_id.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson3/home/index.div_id.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson3/home/widgets.css" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson3/home/widgets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/lesson3/home/widgets.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/HTML/lesson3/home/widgets.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +108,7 @@
       <recent name="C:\Users\Lenovo\IdeaProjects\web\Project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\HTML" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson2\home" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson1\home" />
     </key>
@@ -93,7 +144,14 @@
       <workItem from="1643887493792" duration="6914000" />
       <workItem from="1643903959813" duration="2494000" />
       <workItem from="1643906507666" duration="3412000" />
-      <workItem from="1643918604062" duration="2674000" />
+      <workItem from="1643918604062" duration="2883000" />
+      <workItem from="1644059148497" duration="7212000" />
+      <workItem from="1644182902706" duration="783000" />
+      <workItem from="1644220337689" duration="10808000" />
+      <workItem from="1644296710102" duration="4577000" />
+      <workItem from="1644324274895" duration="3723000" />
+      <workItem from="1644335266951" duration="6061000" />
+      <workItem from="1644399817439" duration="7822000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1642698217911</created>
@@ -130,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643907676327</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add additional tasks lesson 2">
+      <created>1643921341501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1643921341501</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +216,7 @@
     <MESSAGE value="add to git" />
     <MESSAGE value="project and homework" />
     <MESSAGE value="add homework and classwork for js lesson 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="add homework and classwork for js lesson 2" />
+    <MESSAGE value="add additional tasks lesson 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="add additional tasks lesson 2" />
   </component>
 </project>
