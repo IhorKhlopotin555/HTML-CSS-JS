@@ -11,16 +11,15 @@
 // - Даны два целых числа A и В . Выведите все числа от A до B включительно, в порядке возрастания, если A < B, или в порядке убывания в противном случае.
 // const calc = (a, b) => {
 //     let arr = []
-//     if (a < b) {
-//         arr = [b]
-//         for (let i = a; i <= b; i++) {
-//                 arr[i] = i
-//                 console.log(arr[i])
-//             }
+//     if (a > b){
+//         while (a >= b) {
+//             arr.push(a--);
 //         }
-//     else if (a > b){
-//     while (a >= b) {
-//         arr.push(a--);
+//         console.log(arr);
+//     }
+//     else if (a < b){
+//     while (a <= b) {
+//         arr.push(a++);
 //     }
 //     console.log(arr);
 // }
@@ -48,20 +47,20 @@
 // [1,0,6,0,3] => [1,6,3,0,0]
 // [0,1,2,3,4] => [1,2,3,4,0]
 // [0,0,1,0]   => [1,0,0,0]
-// const calc = (array) => {
-//     let k=0;
-//     for(let i = 0; i < Math.floor(Math.random() * (100 - 2 + 1)) + 2; i++)
-//     {
-//         array.push(Math.round(Math.random() * 2))
-//         if(array[i] !==0)
-//         {
-//             let temp = array[i];
-//             array[i] = array[k];
-//             array[k] = temp;
-//             k++;
-//         }
-//     }
-//     console.log(array)
-// }
-// let test = []
-// calc(test)
+const calc = (array) => {
+    let k=0;
+    for(let i = 0; i < Math.floor(Math.random() * (100 - 2 + 1)) + 2; i++)
+    {
+        array.push(Math.round(Math.random() * 2))
+        if(array[i] !==0)
+        {
+            let temp = array[i];
+            array[i] = array[k];
+            array[k] = temp;
+            k++;
+        }
+    }
+    console.log(array)
+}
+let test = []
+calc(test)

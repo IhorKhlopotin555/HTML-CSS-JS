@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add lesson 3 and lesson 4 JavaScript">
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/classwork/lesson_5_cw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/classwork/lesson_5_cw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/homework/lesson_5_hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/homework/lesson_5_hw.js" afterDir="false" />
+    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add lesson 5">
+      <change afterPath="$PROJECT_DIR$/../web/HTML/Project/afasfs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/HTML/Project/yugk.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/classwork/lesson_6_cw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/homerwork/lesson_7_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/homerwork/lesson_7_hw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 8/addition/addition_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/addition/addition_9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/addition/addition_9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/classwork/lesson_9_cw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/classwork/lesson_9_cw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/homework/lesson_9_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/homework/lesson_9_hw.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +48,10 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.js" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,6 +85,28 @@
       <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson2\home" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson1\home" />
     </key>
+  </component>
+  <component name="RunManager" selected="Node.js.addition_lesson_6.js">
+    <configuration name="addition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.js" working-dir="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition">
+      <method v="2" />
+    </configuration>
+    <configuration name="addition_lesson_6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" working-dir="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_5_addition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" working-dir="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition">
+      <method v="2" />
+    </configuration>
+    <configuration name="lesson_7_cw.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.js" working-dir="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.addition_lesson_6.js" />
+        <item itemvalue="Node.js.lesson_5_addition.js" />
+        <item itemvalue="Node.js.addition.js" />
+        <item itemvalue="Node.js.lesson_7_cw.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -107,7 +148,24 @@
       <workItem from="1644335266951" duration="6061000" />
       <workItem from="1644399817439" duration="8294000" />
       <workItem from="1644491468603" duration="7992000" />
-      <workItem from="1644565866446" duration="18088000" />
+      <workItem from="1644565866446" duration="19424000" />
+      <workItem from="1644847488151" duration="863000" />
+      <workItem from="1644848492211" duration="2357000" />
+      <workItem from="1644920797024" duration="1226000" />
+      <workItem from="1645007168094" duration="72000" />
+      <workItem from="1645007479256" duration="25000" />
+      <workItem from="1645007906809" duration="18000" />
+      <workItem from="1645008180526" duration="79000" />
+      <workItem from="1645099134729" duration="1879000" />
+      <workItem from="1645113016011" duration="6204000" />
+      <workItem from="1645270083916" duration="10141000" />
+      <workItem from="1645366520676" duration="130000" />
+      <workItem from="1645367014821" duration="732000" />
+      <workItem from="1645447069863" duration="58000" />
+      <workItem from="1645469242375" duration="621000" />
+      <workItem from="1645512725905" duration="3699000" />
+      <workItem from="1645545318872" duration="6082000" />
+      <workItem from="1645558791307" duration="585000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1642698217911</created>
@@ -158,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644424981480</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add lesson 5">
+      <created>1644589745230</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644589745230</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -181,6 +246,7 @@
     <MESSAGE value="add homework and classwork for js lesson 2" />
     <MESSAGE value="add additional tasks lesson 2" />
     <MESSAGE value="add lesson 3 and lesson 4 JavaScript" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson 3 and lesson 4 JavaScript" />
+    <MESSAGE value="add lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson 5" />
   </component>
 </project>
