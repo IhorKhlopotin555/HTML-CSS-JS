@@ -1,5 +1,42 @@
-// - Є масив :
-//
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<!--template 1.1-->
+<div class="users-box">
+    <div class="user-block">
+        <h2>ID - NAME - USERNAME </h2>
+        <h3>EMAIL - PHONE</h3>
+        <div class="address-block">
+            <p>City - ADDRESS.CITY</p>
+            <p>Street - ADDRESS.STREET</p>
+            <p>Suite - ADDRESS.SUITE</p>
+            <p>Zip code - ADDRESS.ZIPCODE</p>
+        </div>
+
+    </div>
+
+    <!--
+    ...
+    ...
+    ...
+    other users
+    -->
+
+
+</div>
+
+
+<script>
+    /*За допомогою циклу вивести всю інформацію про користувачів використовуючи шаблон Template 1.1
+    * за допомоги стилів, побудувати сітку по 2 об'єкта в лінію
+    *
+    * */
+
     let usersList = [
         {
             id: 1,
@@ -233,83 +270,8 @@
         }
     ];
 
-// Створити під кожен елемент окремий блок. В цьому блоці, під кожну властивість, та властивості внутрішніх об'єктів створити свої окремі блок.
 
-for(const user of usersList) {
-    let userElement = document.createElement('div')
+</script>
 
-    let idElement = document.createElement('div')
-    idElement.innerText = user.id
-
-    let nameElement = document.createElement('div')
-    nameElement.innerText = user.name
-
-    let usernameElement = document.createElement('div')
-    usernameElement.innerText = user.username
-
-    let emailElement = document.createElement('div')
-    emailElement.innerText = user.email
-
-    let addressElement = document.createElement('ul')
-    addressElement.innerText = user.address
-
-    for (const el in user.address) {
-        let street = document.createElement('li')
-        street.innerText = el
-        addressElement.appendChild(street)
-
-        let suite = document.createElement('li')
-        suite.innerText = el
-        addressElement.appendChild(suite)
-
-        let city = document.createElement('li')
-        city.innerText = el
-        addressElement.appendChild(city)
-
-        let zipcode = document.createElement('li')
-        zipcode.innerText = el
-        addressElement.appendChild(zipcode)
-
-        let geoElement = document.createElement('li')
-        geoElement.innerText = addressElement.geo
-        addressElement.appendChild(geoElement)
-
-        for (const elem in user.geoElement) {
-            let lat = document.createElement('li')
-            lat.innerText = elem
-            geoElement.appendChild(lat)
-
-            let lng = document.createElement('li')
-            lng.innerText = elem
-            geoElement.appendChild(lng)
-        }
-    }
-    let phoneElement = document.createElement('div')
-    phoneElement.innerText = user.phone
-
-    let websiteElement = document.createElement('div')
-    websiteElement.innerText = user.website
-
-    let companyElement = document.createElement('div')
-    companyElement.innerText = user.company
-
-    for (const element in user.companyElement) {
-
-    let name = document.createElement('li')
-        name.innerText = element
-        addressElement.appendChild(name)
-
-        let catchPhrase = document.createElement('li')
-        catchPhrase.innerText = element
-        addressElement.appendChild(catchPhrase)
-
-        let bs = document.createElement('li')
-        bs.innerText = element
-        addressElement.appendChild(bs)
-    }
-    userElement.append(idElement, nameElement, usernameElement, emailElement, addressElement, phoneElement, websiteElement, companyElement)
-    document.body.append(userElement)
-}
-
-
-
+</body>
+</html>

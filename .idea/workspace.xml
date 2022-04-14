@@ -1,29 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add lesson 5">
-      <change afterPath="$PROJECT_DIR$/../web/HTML/Project/afasfs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/HTML/Project/yugk.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/classwork/lesson_6_cw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/homerwork/lesson_7_hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/homerwork/lesson_7_hw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 8/addition/addition_8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/addition/addition_9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/addition/addition_9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/classwork/lesson_9_cw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/classwork/lesson_9_cw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/homework/lesson_9_hw.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/homework/lesson_9_hw.js" afterDir="false" />
+    <list default="true" id="84547868-be46-4792-9d40-e9344f94c90d" name="Changes" comment="add lesson 6-9">
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 10/addition/addition_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 10/addition/addition_lesson_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 10/classwork/classwork_10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 10/homework/lesson_10_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 10/homework/lesson_10_hw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 11/classwork/lesson_11_cw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 11/homework/lesson_11_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 11/homework/lesson_11_hw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 12/homework/lesson_12_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 12/homework/lesson_12_hw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/addition/addition_3.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/addition/addition_3.3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/addition/addition_3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 3/addition/addition_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/classwork/lesson_6_cw.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 8/classwork/classwork_8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 8/homework/lesson_8_hw.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/project/post-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/project/post-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/project/project.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/project/project.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/project/user-details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../web/JavaScript/project/user-details.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../web/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/classwork/lesson_6_cw.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/classwork/lesson_6_cw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.html" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/Lesson 6/homework/lesson_6_hw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/classwork/lesson_7_cw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/lesson 7/homerwork/lesson_7_hw.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 7/homerwork/lesson_7_hw.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../web/JavaScript/lesson 9/addition/addition_9.js" beforeDir="false" afterPath="$PROJECT_DIR$/../web/JavaScript/lesson 9/addition/addition_9.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,9 +77,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql&#10;mongo" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowServices.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../web/Project/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -81,6 +95,7 @@
       <recent name="C:\Users\Lenovo\IdeaProjects\web\Project" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lenovo\IdeaProjects\web\JavaScript\Lesson 12\homework" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\HTML" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson2\home" />
       <recent name="C:\Users\Lenovo\IdeaProjects\web\lesson1\home" />
@@ -90,7 +105,7 @@
     <configuration name="addition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition/addition.js" working-dir="$PROJECT_DIR$/../web/JavaScript/lesson 7/addition">
       <method v="2" />
     </configuration>
-    <configuration name="addition_lesson_6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" working-dir="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition">
+    <configuration name="addition_lesson_6.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition/addition_lesson_6.js" working-dir="$PROJECT_DIR$/../web/JavaScript/Lesson 6/addition">
       <method v="2" />
     </configuration>
     <configuration name="lesson_5_addition.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition/lesson_5_addition.js" working-dir="$PROJECT_DIR$/../web/JavaScript/Lesson 5/addition">
@@ -101,7 +116,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.addition_lesson_6.js" />
         <item itemvalue="Node.js.lesson_5_addition.js" />
         <item itemvalue="Node.js.addition.js" />
         <item itemvalue="Node.js.lesson_7_cw.js" />
@@ -165,7 +179,35 @@
       <workItem from="1645469242375" duration="621000" />
       <workItem from="1645512725905" duration="3699000" />
       <workItem from="1645545318872" duration="6082000" />
-      <workItem from="1645558791307" duration="585000" />
+      <workItem from="1645558791307" duration="1798000" />
+      <workItem from="1645815216347" duration="247000" />
+      <workItem from="1645820101704" duration="4000" />
+      <workItem from="1645869050988" duration="3009000" />
+      <workItem from="1646049224334" duration="1118000" />
+      <workItem from="1647270952751" duration="375000" />
+      <workItem from="1647357397745" duration="848000" />
+      <workItem from="1647606958040" duration="3280000" />
+      <workItem from="1647680077305" duration="1198000" />
+      <workItem from="1647759279350" duration="11450000" />
+      <workItem from="1647848093080" duration="1420000" />
+      <workItem from="1647885319859" duration="113000" />
+      <workItem from="1648021666176" duration="14310000" />
+      <workItem from="1648106533008" duration="8897000" />
+      <workItem from="1648227104753" duration="157000" />
+      <workItem from="1648229038990" duration="716000" />
+      <workItem from="1648272379087" duration="2267000" />
+      <workItem from="1648377127970" duration="5033000" />
+      <workItem from="1648449301865" duration="28372000" />
+      <workItem from="1648500231237" duration="139000" />
+      <workItem from="1648541243518" duration="15935000" />
+      <workItem from="1648573411129" duration="6000" />
+      <workItem from="1648629673824" duration="7114000" />
+      <workItem from="1648727501189" duration="5054000" />
+      <workItem from="1648745280917" duration="3835000" />
+      <workItem from="1648797090778" duration="1358000" />
+      <workItem from="1649246437875" duration="115000" />
+      <workItem from="1649671604384" duration="6477000" />
+      <workItem from="1649922975322" duration="1947000" />
     </task>
     <task id="LOCAL-00001" summary="add to git">
       <created>1642698217911</created>
@@ -223,7 +265,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644589745230</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add lesson 6-9">
+      <created>1645559504419</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645559504419</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -247,6 +296,7 @@
     <MESSAGE value="add additional tasks lesson 2" />
     <MESSAGE value="add lesson 3 and lesson 4 JavaScript" />
     <MESSAGE value="add lesson 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="add lesson 5" />
+    <MESSAGE value="add lesson 6-9" />
+    <option name="LAST_COMMIT_MESSAGE" value="add lesson 6-9" />
   </component>
 </project>

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+
+    <style>
+        *{
+            margin: 10px;
+        }
+        .menu{
+            cursor:pointer;
+        }
+        .menu.hidden ul{
+            display:none;
+        }
+        .pHidden{
+            display:none;
+        }
+    </style>
+</head>
+<body>
+<h3>- Создайте кнопку, при клике на которую, она будет скрывать сама себя.</h3>
+<hr>
+<div id="text"><h1>Empty Text</h1></div>
+<input type="button" id="button" value="Hidden text"/>
+<h3>- Створити інпут який приймає вік людини та кнопку яка підтверджує дію.</h3>
+<hr>
+<input type="text" id="age">
+<input type="button" id = "button1" value = 'Check value'>
+<h3>- Создайте меню, которое раскрывается/сворачивается при клике</h3>
+<hr>
+<div class="menu">
+    <h4 class ='title'>Daily Scedule</h4>
+    <ul>
+        <li>1.Wake up</li>
+        <li>2.Breakfast</li>
+        <li>3.Exercise</li>
+        <li>4.Studing</li>
+    </ul>
+</div>
+<div id="content"></div>
+<script src = "lesson_10_hw.js"></script>
+
+</body>
+</html>

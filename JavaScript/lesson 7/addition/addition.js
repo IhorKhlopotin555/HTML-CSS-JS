@@ -1,31 +1,31 @@
 // - Створити клас або функцію конструктор, за допомоги якої можна створювати об'єкти наступного вигляду.
 // Конструктор повинен приймати значення для кожної властивості, в т.ч і для властивостей внутрішніх об'єктів
-class Persons {
-    constructor(id, name, username, email, street, suite, city, zipcode, lat, lng, phone, website,company_name, catchPhrase,bs) {
-        this.id = id;
-        this.name = name;
-        this.username = username;
-        this.email = email;
-        this.address = {
-        street : street,
-            suite : suite,
-            city : city,
-            zipcode : zipcode,
-            geo : {
-                lat : lat,
-                lng : lng,
-            }
-        }
-        this.phone = phone;
-        this.website = website;
-        this.company = {
-            name : company_name,
-            catchPhrase : catchPhrase,
-            bs : bs
-        }
-    }
-}
-const person = new Persons(1, 'Leanne Graham', 'Bret', 'Sincere@april.biz', 'Kulas Light', 'Apt. 556', 'Gwenborough', '92998-3874', '-37.3159', '81.1496',  '1-770-736-8031 x56442','hildegard.org','Romaguera-Crona','Multi-layered client-server neural-net','harness real-time e-markets')
+// class Persons {
+//     constructor(id, name, username, email, street, suite, city, zipcode, lat, lng, phone, website,company_name, catchPhrase,bs) {
+//         this.id = id;
+//         this.name = name;
+//         this.username = username;
+//         this.email = email;
+//         this.address = {
+//         street : street,
+//             suite : suite,
+//             city : city,
+//             zipcode : zipcode,
+//             geo : {
+//                 lat : lat,
+//                 lng : lng,
+//             }
+//         }
+//         this.phone = phone;
+//         this.website = website;
+//         this.company = {
+//             name : company_name,
+//             catchPhrase : catchPhrase,
+//             bs : bs
+//         }
+//     }
+// }
+//const person = new Persons(1, 'Leanne Graham', 'Bret', 'Sincere@april.biz', 'Kulas Light', 'Apt. 556', 'Gwenborough', '92998-3874', '-37.3159', '81.1496',  '1-770-736-8031 x56442','hildegard.org','Romaguera-Crona','Multi-layered client-server neural-net','harness real-time e-markets')
 //console.log(person);
 // {
 //     id: 1,
@@ -51,7 +51,7 @@ const person = new Persons(1, 'Leanne Graham', 'Bret', 'Sincere@april.biz', 'Kul
 // }
 // }
 //
-//
+
 // -  Створити функцію конструктор / клас  який описує об'єкт тегу
 // Поля :
 //     -назва тегу ()
@@ -84,3 +84,21 @@ const person = new Persons(1, 'Leanne Graham', 'Bret', 'Sincere@april.biz', 'Kul
 //
 // }
 
+class Tags {
+    constructor(title, action, attribut_name_1, attribut_action_1, attribut_name_2, attribut_action_2) {
+        this.title = title;
+        this.action = action;
+        this.attributs = {
+            attribut_1: {
+                attribut_name_1: attribut_name_1,
+                attribut_action_1: attribut_action_1
+            },
+            attribut_2: {
+                attribut_name_2: attribut_name_2,
+                attribut_action_2: attribut_action_2
+            }
+        }
+    }
+}
+const tag = new Tags('div', 'class', 'attribut_name_1', 'attribut_action_1', 'attribut_name_2', 'attribut_action_2')
+console.log(tag);
